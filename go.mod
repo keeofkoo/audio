@@ -1,4 +1,4 @@
-module pipelined.dev/audio
+module github.com/keeofkoo/audio
 
 require (
 	pipelined.dev/pipe v0.9.0
